@@ -6,7 +6,7 @@ Versi ini menggabungkan pemulihan waktu offline saat booting, pembersihan RAM ot
 
 ---
 
-### 🔄 Alur Kerja Sistem (Bertahap & Mandiri):
+### 🔄 Alur Kerja Sistem (Bertahap & Mandiri): (ALUR KERJA CERDAS)
 
 1. **Langkah 1 (Saat Booting / Kondisi Offline):**
    * Saat TV menyala dari kondisi mati total, aplikasi langsung memulihkan jam ke **catatan waktu terakhir yang tersimpan** (+30 detik).
