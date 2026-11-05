@@ -140,9 +140,6 @@ class MainActivity : AppCompatActivity() {
             "Auto-Restore Offline + Auto-Step +1 Hari (30 Hari) + Auto-Sync Online + RAM Cleaner Aktif"
         }
 
-        tv.text = "Jam Sistem: $nowStr
-Tanggal Dasar Tersimpan: $lastStr
-
-Status: $modeStr"
+        tv.text = "Jam Sistem: $nowStr\nTanggal Dasar Tersimpan: $lastStr\n\nStatus: $modeStr"
     }
 }
